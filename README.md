@@ -1,7 +1,7 @@
 # Demo-of-Robotics
 Demo and play with PiCar-X from SunFounder
 
-I use this product to demo some fundamental functions of robotics.
+I use this product to demo some fundamental functions of robot.
 
 Environment
 1. DreamQuest mini pc (8G RAM, 256 DDR) runing Windows 11 Pro (upgraded from Windows 10 Pro) and VNC Viewer
