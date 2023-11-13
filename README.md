@@ -1,7 +1,7 @@
 # Demo-of-Robotics
 Demo and play with PiCar-X from SunFounder
 
-I use this product to demo some fundament functions of robotics.
+I use this product to demo some fundamental functions of robotics.
 
 Environment
 1. DreamQuest mini pc (8G RAM, 256 DDR) runing Windows 11 Pro (upgraded from Windows 10 Pro) and VNC Viewer
@@ -12,8 +12,8 @@ Environment
 6. Logitech F310 wired gamepad
 
 Basic Functions 
-1. Drive wheel move, forward and backward
-2. Steering wheel move, turn left and right
+1. Drive wheels move, forward and backward
+2. Steering wheels move, turn left and right
 3. Camera control, turn left, right, up and down
 4. Live video streaming
 5. Text to speed, say "stop!" when detecting obstacle, say "turn left", "move forward" or "turn right" when tracking 
@@ -39,7 +39,7 @@ Steps:
 Playing with Robotics is fun!
 
 Notes:
-I did also play computer vision and AI functions focused on image classification and object detection, but found my Raspberry Pi 3B+ is not powerful enough for them. Model training took almost forever! So I sperate Robot functions and AI functions, and play AI functions on another machine.
+I did also play computer vision and AI functions such as image classification and object detection, but found my Raspberry Pi 3B+ is not powerful enough for them. Model training took almost forever! So I sperate Robot functions and AI functions, and play AI functions on another more powerful machine.
 
 References:
 [1] DreamQuest: https://www.amazon.ca/gp/product/B09DYLYXK2/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 
