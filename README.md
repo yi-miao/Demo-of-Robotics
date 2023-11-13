@@ -42,8 +42,8 @@ Notes:
 I did also play computer vision and AI functions such as image classification and object detection, but found my Raspberry Pi 3B+ is not powerful enough for them. Model training took almost forever! So I sperate Robot functions and AI functions, and play AI functions on another more powerful machine.
 
 References:
-[1] DreamQuest: https://www.amazon.ca/gp/product/B09DYLYXK2/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 
-[2] PiCar-X: https://www.amazon.ca/gp/product/B08PYMWNC4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
-[3] PiCar-X Document: https://docs.sunfounder.com/projects/picar-x/en/latest/
-[4] Nulaxy Cell Phone Stand: https://www.amazon.ca/gp/product/B08CJZ6LSK/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1
-[5] Logitech F310: https://www.amazon.ca/Logitech-940-000110-Gamepad-F310/dp/B003VAHYQY/ref=sr_1_1?keywords=logitech%2Bf310&qid=1699902411&sr=8-1&th=1
+[1] DreamQuest: https://www.amazon.ca/gp/product/B09DYLYXK2/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1  
+[2] PiCar-X: https://www.amazon.ca/gp/product/B08PYMWNC4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1  
+[3] PiCar-X Document: https://docs.sunfounder.com/projects/picar-x/en/latest/  
+[4] Nulaxy Cell Phone Stand: https://www.amazon.ca/gp/product/B08CJZ6LSK/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1  
+[5] Logitech F310: https://www.amazon.ca/Logitech-940-000110-Gamepad-F310/dp/B003VAHYQY/ref=sr_1_1?keywords=logitech%2Bf310&qid=1699902411&sr=8-1&th=1  
