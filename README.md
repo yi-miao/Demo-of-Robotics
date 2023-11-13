@@ -7,7 +7,7 @@ Environment
 1. DreamQuest mini pc (8G RAM, 256 DDR) runing Windows 11 Pro (upgraded from Windows 10 Pro) and VNC Viewer
 2. Raspberry Pi 3 B+ running Raspbian bullseye with VNC Server enabled
 3. PiCar-X from Sunfounder purchased from Amazon in October 2023
-4. LongWei DC Power Supply Variable 30V 10A set at 8.0V to power PiCar (with currency ~0.4A)
+4. LongWei DC Power Supply Variable 30V 10A set at 8.0V to power PiCar (with currency ~0.4-0.8A)
 5. Nulaxy Cell Phone Stand to hold PiCar
 6. Logitech F310 wired gamepad
 
