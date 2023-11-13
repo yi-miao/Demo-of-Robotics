@@ -3,7 +3,7 @@ from robot_hat import TTS
 import time
 
 t = 0.2     # time delay for servos
-l = 5       # distance set for alarm "too close!"
+l = 5       # distance set for alarm "stop!"
 words = ["stop", "turn left", "move forward", "turn right"]
 
 def detect():
