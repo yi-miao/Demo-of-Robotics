@@ -15,9 +15,10 @@ Basic Functions
 1. Drive wheel move, forward and backward
 2. Steering wheel move, turn left and right
 3. Camera control, turn left, right, up and down
-4. Text to speed, say "stop!" when detecting obstacle, say "turn left", "move forward" or "turn right" when tracking 
-5. Object detection, using ultrasound sensor to measure distance from object in front
-6. Line Tracking, using IR sensor to find the relative position to track line
+4. Live video streaming
+5. Text to speed, say "stop!" when detecting obstacle, say "turn left", "move forward" or "turn right" when tracking 
+6. Object detection, using ultrasound sensor to measure distance from object in front
+7. Line Tracking, using IR sensor to find the relative position to track line
 
 Steps:
 1. Assembly PiCar-X following instructions
@@ -36,6 +37,9 @@ Steps:
 14. Move hand close to the front of PiCar-X and away to test the detecting function (visual/printed and audio/sound messages)
 
 Playing with Robotics is fun!
+
+Notes:
+I did also play computer vision and AI functions focused on image classification and object detection, but found my Raspberry Pi 3B+ is not powerful enough for them. Model training took almost forever! So I sperate Robot functions and AI functions, and play AI functions on another machine.
 
 References:
 [1] DreamQuest: https://www.amazon.ca/gp/product/B09DYLYXK2/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 
