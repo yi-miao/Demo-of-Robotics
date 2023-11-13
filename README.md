@@ -41,7 +41,7 @@ Playing with Robotics is fun!
 Notes:
 I did also play computer vision and AI functions such as image classification and object detection, but found my Raspberry Pi 3B+ is not powerful enough for them. Model training took almost forever! So I sperate Robot functions and AI functions, and play AI functions on another more powerful machine.
 
-References:
+References:  
 [1] DreamQuest: https://www.amazon.ca/gp/product/B09DYLYXK2/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1  
 [2] PiCar-X: https://www.amazon.ca/gp/product/B08PYMWNC4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1  
 [3] PiCar-X Document: https://docs.sunfounder.com/projects/picar-x/en/latest/  
