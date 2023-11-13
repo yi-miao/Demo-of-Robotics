@@ -6,6 +6,17 @@ t = 0.2     # time delay for servos
 l = 5       # distance set for alarm "too close!"
 words = ["stop", "turn left", "move forward", "turn right"]
 
+def detect():
+    obs = False
+    dist = round(pc.ultrasonic.read(), 2)
+    print("distance: ",dist)
+    if dist < l:
+        se.say(words[0])  
+        print("stop!")
+        obs = True
+    time.sleep(t)  
+    return obs
+    
 def track():
     vlist = pc.get_grayscale_data()
     minv = vlist.index(min(vlist))
@@ -43,16 +54,6 @@ def elevator(r):
     r = d + r
     pc.set_camera_tilt_angle(r)
     time.sleep(t)
-
-def detect():
-    obs = False
-    dist = round(pc.ultrasonic.read(), 2)
-    print("distance: ",dist)
-    if dist < l:
-        se.say(words[0])     
-        obs = True
-    time.sleep(t)  
-    return obs
         
 def init():
     global pc
